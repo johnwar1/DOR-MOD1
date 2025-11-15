@@ -5,6 +5,6 @@ tags={
 	"National Focuses"
 }
 name="Democracy of reddit"
-picture="dor1.png"
+picture="thumbnail.png"
 supported_version="1.16.10"
 remote_file_id="3605787615"
